@@ -8,3 +8,7 @@ Desenvolver um sistema de cadastro de receitas onde o usuário poderá adicionar
 https://receitasecreta.herokuapp.com/api/ingrediente/todos
 
 https://receitasecreta.herokuapp.com/api/receita/todos
+
+#video
+
+https://youtu.be/jMiMzeRF8Bs
