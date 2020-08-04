@@ -6,4 +6,5 @@ Desenvolver um sistema de cadastro de receitas onde o usuário poderá adicionar
 # Rotas
 
 https://receitasecreta.herokuapp.com/api/ingrediente/todos
+
 https://receitasecreta.herokuapp.com/api/receita/todos
